@@ -37,5 +37,5 @@ wrkhrsweek4jan22 = sum(week4jan22)
 #per month working hours
 pmwh = sum(wrkhrsweek4jan22, wrkhrsweek2jan22, wrkhrsweek1jan22, wrkhrsweek3jan22)
 
-#capacity
+#capacity in percentage
 cap = (pmwh/permonthwrkhrs)*100
