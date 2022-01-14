@@ -2,6 +2,20 @@
 permonthwrkhrs = 8*5*4
 perweekwrkhrs = 8*5
 
+#activity list
+A = "washing"
+B = "wiping"
+C = "mopping"
+D = "writing"
+E = "jogging"
+F = "excersising"
+G = "boxing"
+H = "swimming"
+I = "cutting"
+J = "shopping"
+K = "shipping"
+L = "paying"
+
 #define work hours activity
 a = 4
 b = 2 
